@@ -3,5 +3,7 @@ function sum(a, b) {
 }
 
 const alert = () => {
-  console.log("alert");
+  const test1 = 1;
+
+  console.log(test1);
 };
